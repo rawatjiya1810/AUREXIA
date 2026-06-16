@@ -1,0 +1,6 @@
+{
+  "name": "AUREXIA",
+  "description": "AI-Powered Brand-Creator Collaboration Ecosystem with Trust Intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
